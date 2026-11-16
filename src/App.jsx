@@ -25,7 +25,7 @@ function App() {
           gpa={3.7}
         />
         <StudentProfileCard
-          name="Bahriddin Abdusalomov"
+          name="Abdulazizbek Usmonov"
           studentId="202537225"
           major="Computer Engineering"
           year={2}
