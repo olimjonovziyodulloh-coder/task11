@@ -15,21 +15,21 @@ function App() {
           studentId="202537557"
           major="Computer Engineering"
           year={2}
-          gpa={3.8}
+          gpa={4.4}
         />
         <StudentProfileCard
           name="Sudip Sah"
           studentId="202637610"
           major="Computer Engineering"
           year={1}
-          gpa={3.7}
+          gpa={4.2}
         />
         <StudentProfileCard
           name="Abdulazizbek Usmonov"
           studentId="202537225"
           major="Computer Engineering"
           year={2}
-          gpa={3.6}
+          gpa={4.3}
         />
       </main>
     </div>
